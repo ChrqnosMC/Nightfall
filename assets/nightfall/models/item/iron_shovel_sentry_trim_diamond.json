@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/iron_shovel_sentry_trim_diamond"
+  }
+}

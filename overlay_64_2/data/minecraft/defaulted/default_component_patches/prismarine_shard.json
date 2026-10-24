@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:prismarine_shard"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:prismarine"
+  }
+}

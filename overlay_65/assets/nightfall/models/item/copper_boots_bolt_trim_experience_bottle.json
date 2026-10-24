@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/copper_boots_bolt_trim",
+    "layer1": "nightfall:trims/items/boots_trim_bolt_experience_bottle"
+  }
+}

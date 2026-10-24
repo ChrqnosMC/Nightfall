@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/copper_helmet_sentry_trim",
+    "layer1": "nightfall:trims/items/helmet_trim_sentry_iron"
+  }
+}

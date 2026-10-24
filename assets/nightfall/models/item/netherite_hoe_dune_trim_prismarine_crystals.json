@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/netherite_hoe_dune_trim_prismarine_crystals"
+  }
+}

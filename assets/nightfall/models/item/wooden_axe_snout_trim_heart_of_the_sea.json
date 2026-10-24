@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/wooden_axe_snout_trim_heart_of_the_sea"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/netherite_pickaxe_coast_trim_netherite_scrap"
+  }
+}

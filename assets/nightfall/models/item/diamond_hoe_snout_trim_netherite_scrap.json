@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/diamond_hoe_snout_trim_netherite_scrap"
+  }
+}

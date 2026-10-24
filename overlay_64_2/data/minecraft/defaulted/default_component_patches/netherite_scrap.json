@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:netherite_scrap"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:netherite_scrap"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/copper_pickaxe_ward_trim_gunpowder"
+  }
+}

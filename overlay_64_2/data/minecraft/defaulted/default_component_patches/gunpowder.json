@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:gunpowder"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:gunpowder"
+  }
+}

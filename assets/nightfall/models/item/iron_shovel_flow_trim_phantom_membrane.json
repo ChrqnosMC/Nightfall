@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/iron_shovel_flow_trim_phantom_membrane"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/diamond_sword_eye_trim_heart_of_the_sea"
+  }
+}

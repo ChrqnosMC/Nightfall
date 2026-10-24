@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:fire_charge"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:fire_charge"
+  }
+}

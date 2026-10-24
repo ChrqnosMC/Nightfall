@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:honeycomb"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:honeycomb"
+  }
+}

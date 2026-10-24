@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:coal"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:coal"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/diamond_pickaxe_raiser_trim_copper"
+  }
+}

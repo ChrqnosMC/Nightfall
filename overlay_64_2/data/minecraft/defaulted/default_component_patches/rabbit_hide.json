@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:rabbit_hide"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:rabbit_hide"
+  }
+}

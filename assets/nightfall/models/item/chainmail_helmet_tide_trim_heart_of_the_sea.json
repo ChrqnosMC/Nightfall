@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/chainmail_helmet_tide_trim",
+    "layer1": "nightfall:trims/items/helmet_trim_tide_heart_of_the_sea"
+  }
+}

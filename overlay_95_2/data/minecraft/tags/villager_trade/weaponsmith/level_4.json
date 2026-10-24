@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "nightfall:weaponsmith/4/emerald_and_diamond_axe_diamond_sword",
+    "nightfall:weaponsmith/4/emerald_and_diamond_sword_diamond_axe"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/iron_boots_ward_trim",
+    "layer1": "nightfall:trims/items/boots_trim_ward_redstone"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:common_smith/level_5",
+    "nightfall:toolsmith/5/emerald_and_diamond_enchanted_diamond_axe",
+    "nightfall:toolsmith/5/emerald_and_diamond_enchanted_diamond_shovel",
+    "nightfall:toolsmith/5/emerald_and_diamond_enchanted_diamond_pickaxe"
+  ]
+}

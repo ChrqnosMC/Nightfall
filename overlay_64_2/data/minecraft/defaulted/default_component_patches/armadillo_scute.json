@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:armadillo_scute"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:armadillo_scute"
+  }
+}

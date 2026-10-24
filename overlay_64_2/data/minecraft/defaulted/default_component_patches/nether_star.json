@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:nether_star"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:nether_star"
+  }
+}

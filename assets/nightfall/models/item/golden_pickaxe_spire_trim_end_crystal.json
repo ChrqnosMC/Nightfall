@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/golden_pickaxe_spire_trim_end_crystal"
+  }
+}

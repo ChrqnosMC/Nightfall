@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/copper_sword_bolt_trim_phantom_membrane"
+  }
+}

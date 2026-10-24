@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/wooden_axe_bolt_trim_echo_shard"
+  }
+}

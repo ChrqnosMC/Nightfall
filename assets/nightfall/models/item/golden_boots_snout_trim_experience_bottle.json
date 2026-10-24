@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/golden_boots_snout_trim",
+    "layer1": "nightfall:trims/items/boots_trim_snout_experience_bottle"
+  }
+}

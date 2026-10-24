@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/copper_spear_wayfinder_trim_fire_charge"
+  }
+}

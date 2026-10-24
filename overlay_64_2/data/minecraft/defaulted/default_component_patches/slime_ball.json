@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:slime_ball"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:slime"
+  }
+}

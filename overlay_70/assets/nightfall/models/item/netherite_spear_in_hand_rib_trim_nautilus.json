@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "nightfall:item/netherite_spear_in_hand_rib_trim_nautilus"
+  }
+}

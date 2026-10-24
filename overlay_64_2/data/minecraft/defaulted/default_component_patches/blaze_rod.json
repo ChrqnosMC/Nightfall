@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:blaze_rod"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:blaze_rod"
+  }
+}

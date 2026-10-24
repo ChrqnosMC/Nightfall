@@ -1,0 +1,412 @@
+{
+	"pack": {
+		"pack_format": 121,
+    	"supported_formats": [
+			48,
+			121
+		],
+		"min_format": [
+			48,
+			0
+		],
+		"max_format": [
+			121,
+			0
+		],
+		"description": "Nightfall"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [
+					48,
+					67
+				],
+				"min_format": [
+					48,
+					0
+				],
+				"max_format": [
+					67,
+					0
+				],
+				"directory": "overlay_48"
+			},
+			{
+				"formats": [
+					48,
+					88
+				],
+				"min_format": [
+					48,
+					0
+				],
+				"max_format": [
+					88,
+					0
+				],
+				"directory": "overlay_48_2"
+			},
+			{
+				"formats": [
+					48,
+					90
+				],
+				"min_format": [
+					48,
+					0
+				],
+				"max_format": [
+					90,
+					0
+				],
+				"directory": "overlay_48_3"
+			},
+			{
+				"formats": [
+					63,
+					63
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					63,
+					0
+				],
+				"directory": "overlay_63"
+			},
+			{
+				"formats": [
+					63,
+					74
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					74,
+					0
+				],
+				"directory": "overlay_63_2"
+			},
+			{
+				"formats": [
+					63,
+					76
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					76,
+					0
+				],
+				"directory": "overlay_63_3"
+			},
+			{
+				"formats": [
+					63,
+					99
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					99,
+					3
+				],
+				"directory": "overlay_63_4"
+			},
+			{
+				"formats": [
+					63,
+					110
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_63_5"
+			},
+			{
+				"formats": [
+					63,
+					121
+				],
+				"min_format": [
+					63,
+					0
+				],
+				"max_format": [
+					121,
+					0
+				],
+				"directory": "overlay_63_6"
+			},
+			{
+				"formats": [
+					64,
+					107
+				],
+				"min_format": [
+					64,
+					0
+				],
+				"max_format": [
+					107,
+					1
+				],
+				"directory": "overlay_64"
+			},
+			{
+				"formats": [
+					64,
+					110
+				],
+				"min_format": [
+					64,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_64_2"
+			},
+			{
+				"formats": [
+					65,
+					91
+				],
+				"min_format": [
+					65,
+					0
+				],
+				"max_format": [
+					91,
+					0
+				],
+				"directory": "overlay_65"
+			},
+			{
+				"formats": [
+					68,
+					72
+				],
+				"min_format": [
+					68,
+					0
+				],
+				"max_format": [
+					72,
+					0
+				],
+				"directory": "overlay_68"
+			},
+			{
+				"formats": [
+					68,
+					88
+				],
+				"min_format": [
+					68,
+					0
+				],
+				"max_format": [
+					88,
+					0
+				],
+				"directory": "overlay_68_2"
+			},
+			{
+				"formats": [
+					70,
+					91
+				],
+				"min_format": [
+					70,
+					0
+				],
+				"max_format": [
+					91,
+					0
+				],
+				"directory": "overlay_70"
+			},
+			{
+				"formats": [
+					73,
+					88
+				],
+				"min_format": [
+					73,
+					0
+				],
+				"max_format": [
+					88,
+					0
+				],
+				"directory": "overlay_73"
+			},
+			{
+				"formats": [
+					75,
+					107
+				],
+				"min_format": [
+					75,
+					0
+				],
+				"max_format": [
+					107,
+					1
+				],
+				"directory": "overlay_75"
+			},
+			{
+				"formats": [
+					82,
+					110
+				],
+				"min_format": [
+					82,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_82"
+			},
+			{
+				"formats": [
+					89,
+					91
+				],
+				"min_format": [
+					89,
+					0
+				],
+				"max_format": [
+					91,
+					0
+				],
+				"directory": "overlay_89"
+			},
+			{
+				"formats": [
+					89,
+					110
+				],
+				"min_format": [
+					89,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_89_2"
+			},
+			{
+				"formats": [
+					92,
+					121
+				],
+				"min_format": [
+					92,
+					0
+				],
+				"max_format": [
+					121,
+					0
+				],
+				"directory": "overlay_92"
+			},
+			{
+				"formats": [
+					95,
+					110
+				],
+				"min_format": [
+					95,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_95"
+			},
+			{
+				"formats": [
+					95,
+					121
+				],
+				"min_format": [
+					95,
+					0
+				],
+				"max_format": [
+					121,
+					0
+				],
+				"directory": "overlay_95_2"
+			},
+			{
+				"formats": [
+					100,
+					121
+				],
+				"min_format": [
+					100,
+					0
+				],
+				"max_format": [
+					121,
+					0
+				],
+				"directory": "overlay_100"
+			},
+			{
+				"formats": [
+					108,
+					110
+				],
+				"min_format": [
+					108,
+					0
+				],
+				"max_format": [
+					110,
+					0
+				],
+				"directory": "overlay_108"
+			},
+			{
+				"formats": [
+					111,
+					121
+				],
+				"min_format": [
+					111,
+					0
+				],
+				"max_format": [
+					121,
+					0
+				],
+				"directory": "overlay_111"
+			}
+		]
+	}
+}

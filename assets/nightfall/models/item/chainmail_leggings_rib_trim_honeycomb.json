@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/chainmail_leggings_rib_trim",
+    "layer1": "nightfall:trims/items/leggings_trim_rib_honeycomb"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:glow_ink_sac"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:glow_ink"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/golden_boots_spire_trim",
+    "layer1": "nightfall:trims/items/boots_trim_spire_heart_of_the_sea"
+  }
+}

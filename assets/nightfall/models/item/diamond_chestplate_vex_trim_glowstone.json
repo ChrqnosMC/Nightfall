@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/diamond_chestplate_vex_trim",
+    "layer1": "nightfall:trims/items/chestplate_trim_vex_glowstone"
+  }
+}

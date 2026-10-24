@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:ender_pearl"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:ender_pearl"
+  }
+}

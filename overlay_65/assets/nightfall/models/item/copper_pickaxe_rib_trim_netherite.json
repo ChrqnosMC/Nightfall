@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/copper_pickaxe_rib_trim_netherite"
+  }
+}

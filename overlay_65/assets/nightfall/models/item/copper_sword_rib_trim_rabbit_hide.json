@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/copper_sword_rib_trim_rabbit_hide"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/wooden_axe_spire_trim_nether_brick"
+  }
+}

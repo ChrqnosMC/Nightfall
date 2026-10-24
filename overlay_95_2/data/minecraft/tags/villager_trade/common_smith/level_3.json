@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:smith/2/emerald_bell",
+    "nightfall:smith/3/diamond_emerald"
+  ]
+}

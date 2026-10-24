@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:nautilus_shell"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:nautilus"
+  }
+}

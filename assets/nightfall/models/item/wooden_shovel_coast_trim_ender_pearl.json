@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/wooden_shovel_coast_trim_ender_pearl"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:experience_bottle"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:experience_bottle"
+  }
+}

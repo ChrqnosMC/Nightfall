@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:breeze_rod"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:breeze_rod"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/stone_axe_wayfinder_trim_nether_star"
+  }
+}

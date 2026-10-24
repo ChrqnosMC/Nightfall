@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:dragon_breath"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:dragon_breath"
+  }
+}

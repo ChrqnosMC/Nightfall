@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:end_crystal"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:end_crystal"
+  }
+}

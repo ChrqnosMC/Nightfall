@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/golden_axe_shaper_trim_heart_of_the_sea"
+  }
+}

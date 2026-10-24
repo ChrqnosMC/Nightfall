@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/chainmail_helmet_rib_trim",
+    "layer1": "nightfall:trims/items/helmet_trim_rib_prismarine_crystals"
+  }
+}

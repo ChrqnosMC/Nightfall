@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:common_smith/level_4",
+    "nightfall:armorer/4/emerald_and_diamond_boots_diamond_leggings",
+    "nightfall:armorer/4/emerald_and_diamond_helmet_diamond_leggings",
+    "nightfall:armorer/4/emerald_and_diamond_chestplate_diamond_leggings",
+    "nightfall:armorer/4/emerald_and_diamond_leggings_diamond_boots",
+    "nightfall:armorer/4/emerald_and_diamond_helmet_diamond_boots",
+    "nightfall:armorer/4/emerald_and_diamond_chestplate_diamond_boots",
+    "nightfall:armorer/4/emerald_and_diamond_leggings_diamond_helmet",
+    "nightfall:armorer/4/emerald_and_diamond_boots_diamond_helmet",
+    "nightfall:armorer/4/emerald_and_diamond_chestplate_diamond_helmet",
+    "nightfall:armorer/4/emerald_and_diamond_leggings_diamond_chestplate",
+    "nightfall:armorer/4/emerald_and_diamond_boots_diamond_chestplate",
+    "nightfall:armorer/4/emerald_and_diamond_helmet_diamond_chestplate"
+  ]
+}

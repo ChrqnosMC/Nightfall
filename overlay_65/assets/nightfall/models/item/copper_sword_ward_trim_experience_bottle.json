@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/copper_sword_ward_trim_experience_bottle"
+  }
+}

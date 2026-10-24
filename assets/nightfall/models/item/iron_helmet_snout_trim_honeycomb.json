@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nightfall:item/iron_helmet_snout_trim",
+    "layer1": "nightfall:trims/items/helmet_trim_snout_honeycomb"
+  }
+}

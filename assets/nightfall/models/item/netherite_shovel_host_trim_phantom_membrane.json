@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/netherite_shovel_host_trim_phantom_membrane"
+  }
+}

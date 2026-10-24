@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/wooden_pickaxe_snout_trim_redstone"
+  }
+}

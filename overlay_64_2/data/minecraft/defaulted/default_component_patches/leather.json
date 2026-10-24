@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:leather"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:leather"
+  }
+}

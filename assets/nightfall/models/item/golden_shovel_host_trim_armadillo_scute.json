@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/golden_shovel_host_trim_armadillo_scute"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "nightfall:item/stone_spear_in_hand_dune_trim_emerald"
+  }
+}

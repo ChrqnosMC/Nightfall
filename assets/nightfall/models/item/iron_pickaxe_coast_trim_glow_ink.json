@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "nightfall:item/iron_pickaxe_coast_trim_glow_ink"
+  }
+}

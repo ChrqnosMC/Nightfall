@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:bone"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:bone"
+  }
+}

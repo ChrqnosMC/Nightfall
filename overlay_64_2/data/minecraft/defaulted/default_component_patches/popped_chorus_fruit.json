@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:popped_chorus_fruit"
+  ],
+  "patch": {
+    "minecraft:provides_trim_material": "nightfall:purpur"
+  }
+}
