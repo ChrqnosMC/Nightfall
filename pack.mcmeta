@@ -124,21 +124,6 @@
 			},
 			{
 				"formats": [
-					63,
-					121
-				],
-				"min_format": [
-					63,
-					0
-				],
-				"max_format": [
-					121,
-					0
-				],
-				"directory": "overlay_63_6"
-			},
-			{
-				"formats": [
 					64,
 					107
 				],
